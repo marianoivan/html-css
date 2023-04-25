@@ -1,0 +1,37 @@
+.img1{
+    max-width: 400px;
+    max-height: 400px;
+    padding-left: 50px;
+}
+
+.h1{
+    font-size: 30px;
+    border-radius: 10px;
+    background: rgb(107, 107, 194);
+    padding: 15px 7px 15px 7px;
+}
+
+li{
+    font-size: 30px;
+    background: gainsboro;
+    width: 250px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.h2-2{
+    border: 5px double rgb(107, 107, 194);
+}
+
+p{
+    font-size: 20PX;
+    border: 5px dashed gold;
+    width: 850px;
+    padding: 10px 5px 10px 5px;
+}
+
+.img2{
+    max-width: 400px;
+    max-height: 400px;
+    padding-left: 50px;
+}
